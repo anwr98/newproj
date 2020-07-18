@@ -618,3 +618,94 @@ label {
 
 
 
+/*----------------------------------------------------------studen course--------------*/
+#student{
+    background-image: url(../images/background\ pages.jpg);
+}
+#student .wrapper{
+    margin: 0 auto;
+    width: 800px;
+    position: relative;
+}
+.wrapper main section{
+    width: 500px;
+    height: 150px;
+    background-color:rgb(156, 154, 154);
+    position: relative;
+    margin-top: 30px;
+    border-radius: 3px;
+}
+
+.wrapper main  h1{
+    color: rgb(124, 13, 13);
+    font-weight: bolder;
+}
+
+.wrapper main section span{
+    font-size: 20px;
+    font-family: unset;
+    margin-left: 20px;
+}
+.wrapper main section h2{
+    margin-left: 20px;
+}
+.wrapper main section p{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+#student main section  button{
+    position: absolute;
+    left: 440px;
+    top: 120px;
+    background-color: black;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 20px;
+}
+#student main section  button:hover{
+   background-color: darkred;
+}
+
+#student main h1{
+    position: relative;
+    left: 140px;
+    top: 20px;
+}
+#student main article{
+    width: 200px;
+    height: 500px;
+    background-color:rgb(156, 154, 154);
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    border-radius: 3px;
+}
+#student main article h2{
+    margin-left: 50px;
+    font-family: sans-serif;
+    color: darkred;
+    
+}
+#student main article ul li{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+#student main article button{
+    background-color:black;
+    color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+    border: 2px;
+}
+#student main article button:hover{
+    background-color: darkred;
+}
+
+
+
